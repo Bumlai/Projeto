@@ -8,7 +8,7 @@
     display: flex;
     align-items: center;
     align-content: center;
-    
+    padding: 30px;
 }
 
 body {
@@ -17,6 +17,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: #2f363e;
+    flex-direction: column;
 }
 
 .menu {
