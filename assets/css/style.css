@@ -20,6 +20,13 @@ body {
     flex-direction: column;
 }
 
+.inicio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
 .menu {
     position: relative;
     width: 280px;
